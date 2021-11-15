@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "flavour": { "type": "string" },
+    "price": { "type": "number" },
+    "stock": { "type": "number" }
+  },
+  "required": ["flavour", "price", "stock"]
+}
