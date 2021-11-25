@@ -1,6 +1,6 @@
 # Improve your Node.js applications with schema generated types
 
-> *Part of the [Node Validation Essentials](https://lp.simonplend.com/node-validation-essentials-workshop) workshop series by [Simon Plenderleith](https://simonplend.com).*
+> *Part of the [Node Validation Essentials](https://www.nodevalidationessentials.com/) workshop series by [Simon Plenderleith](https://simonplend.com).*
 
 ## How to use this project
 
